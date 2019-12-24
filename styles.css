@@ -488,7 +488,7 @@ justify-content: space-between;
     flex: 0 0 100%;
     max-width: 100%;
 }
-.contact-us .contact-form .button a{
+.contact-us .contact-form .button .btn{
     border-radius: 4px;
     color: #ffffff;
     padding: 12px 25px;
@@ -501,7 +501,7 @@ justify-content: space-between;
     box-shadow: 0px 0px 15px #e8e8e8;
 
 }
-.contact-us .contact-form .button a:hover{
+.contact-us .contact-form .button .btn:hover{
     background-color: #ffffff;
     color: #000000;
     border:1px solid #000000 ;
