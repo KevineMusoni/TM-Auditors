@@ -95,6 +95,9 @@ header .brand-name a{
     font-family: 'Asap', sans-serif;
     border: none;
 }
+header .brand-name img{
+    position: relative;
+}
 
 header.fixed .brand-name a{
     color: #000000;
@@ -301,6 +304,7 @@ min-height: 100vh;
     background-attachment: fixed;
 }
 .pic{
+    background-color: rgba(0, 0, 1, 0.753);
     top: 0;
     bottom: 0;
     height: 100%;
@@ -522,7 +526,7 @@ footer .logo{
 }
 footer .info{
     font-size: 15px;
-    border-top:1px solid #1d1d27 ;
+    border-top:1px solid #060611 ;
     text-align: center;
     line-height: 30px;
 }
